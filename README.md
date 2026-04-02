@@ -48,6 +48,8 @@ Le système OSA repose sur une architecture modulaire comprenant quatre modèles
 Documentation 
 -------------
 Read the docs : https://cv-project-osa.readthedocs.io/en/latest/
+
+
 Support
 -------
 
