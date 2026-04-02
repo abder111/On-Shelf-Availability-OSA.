@@ -45,7 +45,9 @@ Le système OSA repose sur une architecture modulaire comprenant quatre modèles
     │                                 Génération des rapports                                       │
     └───────────────────────────────────────────────────────────────────────────────────────────────┘
 
-
+Documentation 
+-------------
+Read the docs : https://cv-project-osa.readthedocs.io/en/latest/
 Support
 -------
 
